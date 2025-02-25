@@ -30,4 +30,4 @@ ForEach ($thing in $things) {
     Write-Output "It highlights it using the GitHub style"
 }
 ```
-![Image](/static/testimage.jpg)
+![Image](https://raw.githubusercontent.com/sayujya-apte/blog/refs/heads/main/static/testimage.jpg)
